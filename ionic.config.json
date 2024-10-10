@@ -1,0 +1,8 @@
+{
+  "name": "Ecoloot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ec4a7824"
+}
